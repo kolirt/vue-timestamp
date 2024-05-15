@@ -14,7 +14,7 @@
 - [Demo](#demo)
 - [Faq](#faq)
 - [License](#license)
-- [Other projects](#other-projects)
+- [Other packages](#other-packages)
 
 <a href="https://www.buymeacoffee.com/kolirt" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
@@ -70,6 +70,6 @@ questions
 [MIT](https://github.com/kolirt/vue-timestamp/blob/master/LICENSE)
 
 
-# Other projects
+# Other packages
 
 Check out my other projects on my [GitHub profile](https://github.com/kolirt).

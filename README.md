@@ -16,6 +16,10 @@
 - [License](#license)
 - [Other projects](#other-projects)
 
+<a href="https://www.buymeacoffee.com/kolirt" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
+
 # Getting started
 
 ## Installation
@@ -57,12 +61,13 @@ import { timestamp } from '@kolirt/vue-timestamp'
 
 # FAQ
 
-Check closed [issues](https://github.com/kolirt/vue-timestamp/issues) with `FAQ` label to get answers for most asked questions.
+Check closed [issues](https://github.com/kolirt/vue-timestamp/issues) with `FAQ` label to get answers for most asked
+questions
 
 
 # License
 
-[MIT](./LICENSE)
+[MIT](https://github.com/kolirt/vue-timestamp/blob/master/LICENSE)
 
 
 # Other projects

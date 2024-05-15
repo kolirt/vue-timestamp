@@ -52,7 +52,7 @@ import { timestamp } from '@kolirt/vue-timestamp'
 
 # Demo
 
-[Demo here](https://kolirt.github.io/vue-timestamp/).
+[Demo here](https://kolirt.github.io/vue-timestamp/)
 
 
 # FAQ

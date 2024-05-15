@@ -57,15 +57,14 @@ import { timestamp } from '@kolirt/vue-timestamp'
 
 # FAQ
 
-Check closed [issues](https://github.com/kolirt/vue-timestamp/issues) with `FAQ` label to get answers for most asked
-questions
+Check closed [issues](https://github.com/kolirt/vue-timestamp/issues) with `FAQ` label to get answers for most asked questions.
 
 
 # License
 
-[MIT](https://github.com/kolirt/vue-timestamp/blob/master/LICENSE)
+[MIT](./LICENSE)
 
 
 # Other projects
 
-Check out my other projects on my [GitHub profile](https://github.com/kolirt)
+Check out my other projects on my [GitHub profile](https://github.com/kolirt).

@@ -1,4 +1,9 @@
-<h1 align="center">Vue3 timestamp</h1>
+<h1 align="center">Vue 3 timestamp</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Made%20with&message=VueJS&color=limegreen&style=for-the-badge&logo=vue.js" />
+</p>
+
 
 **Table of Contents**
 

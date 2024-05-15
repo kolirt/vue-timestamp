@@ -29,7 +29,7 @@ import { timestamp } from '../lib'
         <a href="https://github.com/kolirt/vue-timestamp/blob/master/README.md" target="_blank">Docs</a>
       </div>
 
-      <h1>Vue3 timestamp</h1>
+      <h1>Vue 3 timestamp</h1>
       <p class="lead">Timestamp: {{ timestamp }}</p>
     </div>
   </div>

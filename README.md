@@ -67,7 +67,7 @@ questions
 
 # License
 
-[MIT](https://github.com/kolirt/vue-timestamp/blob/master/LICENSE)
+[MIT](./LICENSE)
 
 
 # Other packages
